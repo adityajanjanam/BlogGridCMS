@@ -75,8 +75,6 @@
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    /* Add unprefixed property for linters; not widely supported but harmless */
-    line-clamp: 3;
   }
   
   .gradient-bg {
